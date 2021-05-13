@@ -1,0 +1,11 @@
+{
+    "port": 8080,
+    "jwtSecret": "oskarvitkosecret",
+    "dbconnection": {
+        "host": "us-cdbr-east-03.cleardb.com",
+        "user": "b528e38ddcfd53",
+        "password": "c19682d0",
+        "database": "heroku_f64a725bdca1a36"
+    },
+    "baseUrl": "https://pure-shelf-01589.herokuapp.com"
+}

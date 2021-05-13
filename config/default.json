@@ -1,0 +1,11 @@
+{
+    "port": 5000,
+    "jwtSecret": "oskarvitkosecret",
+    "dbconnection": {
+        "host": "localhost",
+        "user": "root",
+        "password": "Oskar_vitko16",
+        "database": "restaurant"
+    },
+    "baseUrl": "http://localhost:5000"
+}
